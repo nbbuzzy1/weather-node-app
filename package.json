@@ -18,5 +18,8 @@
   "homepage": "https://github.com/nbbuzzy1/weather-node-app#readme",
   "dependencies": {
     "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
   }
 }
